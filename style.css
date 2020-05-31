@@ -1,0 +1,277 @@
+html, body{
+	width: 1366px;
+	height: 745px;
+}
+.size{
+	width: 1366px;
+	height: 2604px;
+}
+@font-face{
+	font-family: 'alk-rex-bold-webfont';
+	src: url('..fonts/alk-rex-bold-webfont.eot');
+	src: url('..fonts/alk-rex-bold-webfont.svg');
+		url('..fonts/alk-rex-bold-webfont.ttf');
+		url('..fonts/alk-rex-bold-webfont.woff');
+		url('..fonts/alk-rex-bold-webfont.woff2');
+}
+
+.banner{
+	margin:195px 166px 0 30px;
+	width: 1170px;
+	height: 460px;
+}
+.menu{
+	margin: 84.39px 1244px 0 30px
+}
+.facebook{
+	display: inline-block;
+	margin:30px 1322px 29.42px 30px;
+	width: 14px;
+	height: 30px;
+}
+.youtube{
+	display: inline-block;
+	margin:30px 1322px 29.42px 30px;
+	width: 14px;
+	height: 30px;
+}
+.contact{
+	display: inline-block;
+	top: 321px;
+	left: 519px;
+	width: 250px;
+	height: 92px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	opacity: 1;
+	color: #3D58A6
+}
+.text{
+	color:#000000;
+}
+.text1{
+	color: #000000
+}
+.text2{
+	color: #000000
+}
+.contact1{
+	color:grey;
+}
+.contact2{
+	color: grey;
+}
+.contact3{
+	color: grey;
+}
+.maisi{
+	font-size: 16px
+	top: 2156px;
+	left: 30px;
+	width: 1146px;
+	height: 360px;
+}
+.maisi1{
+	font-size: 16px
+	top: 1374px;
+	left: 30px;
+	width: 1146px;
+	height: 360px;
+	margin: 10px 190px 20px 30px;
+}
+.maisi2{
+	font-size: 16px
+	top: 593px;
+	left: 30px;
+	width: 1146px;
+	height: 360px;
+	margin: 27.46px 190px 43.89px 30px;
+}
+.image1{
+	top: 356px;
+	left: 30px;
+	width: 270px;
+	height: 210px;
+}
+.image2{
+	top: 1137px;
+	left: 30px;
+	width: 270px;
+	height: 210px;
+	margin: 10px 1066px 10px 30px;
+}
+.image3{
+	top: 1919px;
+	left: 30px;
+	width: 270px;
+	height: 210px;
+	background: transparent url('img/Image3.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+
+}
+.topic{
+	color: black
+	font-size: 20px;
+	margin:5px 648px 5px 30px;
+	font-family: 'alk-rex-bold-webfont';
+
+}
+.blank{
+	color: #EE4036;
+
+}
+.blank1{
+	color:#3D58A6;
+}
+.blank2{
+	color: #3D58A6;
+}
+
+.blank3{
+	color: #3D58A6;
+	width: 500px;
+	display: inline-block;
+	vertical-align: text-top;
+
+
+}
+.blank4{
+	color: #EE4036;
+	width: 500px;
+	display: inline-block;
+	vertical-align: text-top;
+
+}
+.blank5{
+	color: #3D58A6;
+	width: 500px;
+	display: inline-block;
+	vertical-align: text-top;
+
+}
+.blank6{
+	color: #3D58A6;
+
+}
+.blank7{
+	color: #3D58A6;
+
+}
+.blank8{
+	color: #EE4036;
+}
+
+body{
+	width: 1366;
+	height: 745;
+}
+.tve{
+	background: #3D58A6;
+	display:inline-block;
+	width: 46px;
+	height: 55px;
+	color:white;
+	margin: 20px 1285.95px  20px 30px;
+	
+}
+.tve h1{
+	font-size: 40px;
+}
+
+.maisistve{
+	width: 25px;
+	height: 56px;
+	margin: 20px 1285.95px 200px 30px;
+	display: inline-block;
+	font-size: 20px;
+	padding: 20px;
+	list-style-type: none;
+  text-align: right;
+  margin: 0px;
+  padding: 0px;
+}
+	
+}
+
+.box{
+	margin: 16.52px 1066px 27.46px 30px;
+}
+.maisi28{
+	width: 46px;
+	height: 55px;
+	background: #3D58A6;
+	color: white;
+	font-size: 40px;
+	margin: 20px 1285.95px  20px 30px;
+}
+.maisi43{
+	width: 56;
+	height:25;
+	margin: 2px 1280px 10px 30px;
+}
+.maisi29{
+	width: 46px;
+	height: 55px;
+	background: #3D58A6;
+	color: white;
+	font-size: 40px;
+	margin: 20px 1285.95px  20px 30px;
+}
+
+.topic {
+	width: 500px;
+	display: inline-block;
+	vertical-align: right;
+}
+
+.image{
+	width: 270px;
+	height: 210px;
+	margin: 10px 1066px 20px 30px;
+	display: inline-block;
+	vertical-align: right;
+}
+.topic1{
+	width: 688px;
+	height: 23px;
+	margin: 10px 648px 15px 30px;
+
+}
+
+.contact{
+	display: inline-block;
+	text-align: right;
+	margin: 73.49px 1028.7px 404.51px 87.3px;
+
+}
+.list{
+	display:inline-block;
+	width: 500px;
+}
+.nav {
+   
+  list-style-type: none;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+.map{
+	display: inline-block;
+	text-align: right;
+    margin: 73.49px 1028.7px 404.51px 87.3px
+}
+.mobile{
+	width: 250px;
+	display:inline-block;
+	text-align: top;
+}
+.hand{
+	width: 250px;
+	display:inline-block;
+	text-align: top;
+}
